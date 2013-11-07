@@ -1,4 +1,4 @@
-vehu-intranet
-=============
+Regulus Designs
+===============
 
-Repo for VeHU Intranet files.
+This is my personal repo for testing new features for http://www.regulusdesigns.com
