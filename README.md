@@ -1,4 +1,4 @@
 vehu-intranet
 =============
 
-Repo for VeHU Intranet files
+Repo for VeHU Intranet files.
