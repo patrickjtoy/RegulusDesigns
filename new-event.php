@@ -21,10 +21,9 @@
                 case 1:
                     $nextString = '00'.$nextNumber;
                     break;
-
                 case 2:
                     $nextString = '0'.$nextNumber;
-                
+                    break;                
                 default:
                     $nextString = $nextNumber;
                     break;
